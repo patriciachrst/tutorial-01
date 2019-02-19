@@ -1,2 +1,3 @@
 NPM : 1606874633
 Nama : Patricia Christiana
+Jurusan : Sistem Informasi
